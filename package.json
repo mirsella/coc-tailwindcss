@@ -1354,7 +1354,7 @@
     "prepare": "npm-run-all clean build"
   },
   "dependencies": {
-    "rustywind": "^0.6.5"
+    "rustywind": "^0.6.6"
   },
   "devDependencies": {
     "@types/node": "^11.13.5",
